@@ -1,1 +1,1 @@
-# tads-resolucoes-programacao-computadores
+# Resoluções das listas de programação de computadores
